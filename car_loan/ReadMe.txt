@@ -1,0 +1,1 @@
+This python program takes user input: interest in the form of APR, monthly payment amount, amount of payments already made (if any), and length of the loan - and outputs total principle amount, total interest to be paid over the life of the loan, number of remaining car payments remaining, and amount remaining on the loan using an equated monthly installment formula.
